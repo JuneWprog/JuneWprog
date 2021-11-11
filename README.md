@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and cybersecurity 
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on python or c project 
-- 📫 How to reach me ...
+- 📫 Reach me at carolinejunw@gmail.com
 
 <!---
 JuneWprog/JuneWprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
