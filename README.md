@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JuneWprog
+- 👋 Hi, I’m Jun Wang @JunWprog
 - 👀 I’m interested in software engineering and cybersecurity 
 - 🌱 I’m currently learning data structure and algorithm
-- 💞️ I’m looking to collaborate on python or c project 
+- 💞️ I’m looking to collaborate on any python or c project 
 - 📫 Reach me at carolinejunw@gmail.com
 
 <!---
