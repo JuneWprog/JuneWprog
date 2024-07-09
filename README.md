@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Jun Wang @JunWprog
-- 🌱 I’m a new graduate from Northeastern University looking for a Web Developer position.
-- 👀 I’m interested in content creation, including web dev and video editing.
-- 💞️ I want to collaborate on any Python, Java, JavaScript, or ReactJS project.
-- 📫 Reach me at <a href="mailto:carolinejunw@gmail.com">carolinejunw@gmail.com</a> 
-- 🤝<a href="www.linkedin.com/in/jun-wang-7377471a1/"> LinkIn</a>
+## 👋 Hi, I’m Jun Wang (@JunWprog)
+### 🌱 Recent Graduate | Web Developer
+- 🎓 Graduated from Northeastern University
+- 👀 Passionate about content creation, web development, and video editing
+- 💻 Proficient in Python, Java, JavaScript, and ReactJS
+- 💞️ Open to collaborating on innovative projects
+- 📫 Reach me at [carolinejunw@gmail.com](mailto:carolinejunw@gmail.com)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/jun-wang-7377471a1/)
